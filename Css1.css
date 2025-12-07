@@ -1,0 +1,22 @@
+body{
+  background-color:slategray;
+}
+#p1{
+  font-family: monospace;
+  color: rebeccapurple;
+  font-size: 19px;
+}
+
+#p2{
+  font-family: cursive;
+  color:rgb(255, 18, 140);
+ 
+}
+#p3{
+  font-family: courier;
+  color:rgb(67, 87, 222);
+}
+#p4{
+  font-family: Cursive;
+  color:#b193b8;
+}
